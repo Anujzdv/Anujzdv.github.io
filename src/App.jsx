@@ -383,7 +383,7 @@ function App() {
                     <span className="px-3 py-1 bg-blue-50 text-blue-700 text-xs font-bold uppercase tracking-wider rounded-full">EdTech Platform</span>
                     <div className="flex gap-2">
                       <a href="#" className="p-2 hover:bg-gray-100 rounded-full transition-colors"><Github size={20} className="text-gray-600" /></a>
-                      <a href="https://syntaxflow.tech/" className="p-2 hover:bg-gray-100 rounded-full transition-colors"><Live size={20} className="text-gray-600" /></a>
+                      <a href="https://syntaxflow.tech/" className="p-2 hover:bg-gray-100 rounded-full transition-colors"><ExternalLink size={20} className="text-gray-600" /></a>
                     </div>
                   </div>
                   <p className="text-gray-600 mb-6 leading-relaxed flex-1">
